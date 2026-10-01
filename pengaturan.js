@@ -8,6 +8,6 @@ const CONFIG_APP = {
     namaVendor: "VK Wedding",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo",
+    googleApiKey: "AIzaSyAUuw2aqKeXTtizgNLllg1l4mGX0z-4BvE",
     whatsappAdmin: "62821000000000" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
